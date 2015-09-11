@@ -16,7 +16,7 @@
 ![](https://scontent-sin1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11902285_806118416175181_6233568462655196513_n.jpg?oh=a3a0b61083b39e043f1b83995d8d34fb&oe=566A3463)
 ### 2.2 Add the following details. ###
 
-![](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11889432_806118582841831_2404090978941577719_n.jpg?oh=9f7799b5075d13d1aaed9b47e3f64ecc&oe=56761AC1&__gda__=1446653771_768a65e75c61ca374673f9bf8ffa596b)
+![](https://scontent-sin1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1499617_813825312071158_275824266575208542_n.jpg?oh=c4fab32b72cb9f8fb0407a9bd14cab0f&oe=566D7FB7)
 ## 3.Installation: ##
 ### 3.1 Before installing clear the repository cache by issuing the following command. ###
 
